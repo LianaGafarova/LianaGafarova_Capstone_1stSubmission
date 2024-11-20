@@ -1,7 +1,7 @@
 ### Leveraging Applicant Information to Enhance Credit Decisioning for Fintech Companies with FICO Score
 
 
-** Liana Gafarova **
+**Liana Gafarova**
 
 #### Executive summary
 Credit scoring is a critical tool in financial decision-making, helping lenders make informed decisions while enabling consumers to access credit responsibly. 
@@ -52,7 +52,7 @@ One of the logical extensions of the analysis would be a dual score strategy, wh
 
 #### Outline of project
 
-- Jupyter Notebook:
+- Jupyter Notebook: https://github.com/LianaGafarova/LianaGafarova_Capstone_1stSubmission/blob/main/Part%201_Capstone.ipynb
 
 
 ##### Contact and Further Information
